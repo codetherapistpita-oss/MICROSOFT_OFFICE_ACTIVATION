@@ -82,3 +82,18 @@ The original project explains its methods and provides the current instructions.
 This repository's explanatory content is shared under GPL-3.0. The logo and names of the original project identify their respective owners and do not imply endorsement.
 
 **Microsoft**, **Windows**, **Word**, and **Office** are trademarks of Microsoft Corporation. This is an independent community reference.
+
+---
+
+## About this reference curator
+
+**Code Therapist (Gyagenda Peter Katabalwa)** is a software developer and founder of **ByteLab Uganda**. This page is part of a broader collection of technical references and engineering notes.
+
+| Visit | Link |
+| --- | --- |
+| 🌐 Personal portfolio | [codetherapist.netlify.app](https://codetherapist.netlify.app/) |
+| 🏢 ByteLab Uganda | [bytelabug.com](https://bytelabug.com/) |
+| 📚 Technical publications | [Code Therapist Knowledge Hub](https://github.com/codetherapistpita-oss/codetherapistpita-oss/tree/main/knowledge-hub) |
+| 🧑‍💻 GitHub profile and projects | [@codetherapistpita-oss](https://github.com/codetherapistpita-oss) |
+
+*This reference is independently curated; its links and branding do not imply endorsement by Massgrave or Microsoft.*
